@@ -1,5 +1,5 @@
 # Introduction
-This repository is created for System Engineering Course project: HVAC control system. On this project we four team players work as a group to design a HAVC control system. This repository contain documents created by following [System Engineering Framwork]. 
+This repository is created for System Engineering Course project: HVAC control system. On this project we four team players work as a group to design a HAVC control system. This repository contain documents created by following [System Engineering Framwork](https://github.com/charlieshao5189/HVAC-control-system/blob/master/Systems%20engineering%20files/systemEngineeringProcess.png). 
 
 content of folders:
 
