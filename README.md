@@ -15,7 +15,7 @@ I build a simple prototype for this project. It is implemnted by Python 2.7 on R
 ## Hardware
 ![hardware](Presentation/Prototype-hardware.jpg)
 
-## Software
+## Software GUI
 ![software](Presentation/Prototype-software.jpg)
 
  
