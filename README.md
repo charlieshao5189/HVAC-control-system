@@ -10,5 +10,9 @@ content of folders:
 *Research*: It contains referece resources we collected for this project.
 
 *Presentation*: PPT we made for finnal presentation.
+# Prototype
+I build a simple prototype for this project. It is implemnted by Python 2.7 on Raspberry Pi 2.
+![hardware](Presentation/Prototype-hardware.jpg)
+![software](Presentation/Prototype-software.jpg)
 
  
