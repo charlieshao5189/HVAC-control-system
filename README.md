@@ -12,7 +12,10 @@ content of folders:
 *Presentation*: PPT we made for finnal presentation.
 # Prototype
 I build a simple prototype for this project. It is implemnted by Python 2.7 on Raspberry Pi 2.
+##Hardware
 ![hardware](Presentation/Prototype-hardware.jpg)
+
+##Software
 ![software](Presentation/Prototype-software.jpg)
 
  
